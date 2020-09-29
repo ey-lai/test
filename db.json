@@ -28,29 +28,5 @@
     "condition": 2,
     "size": 6,
     "payoff": 100
-  },
-  {
-    "workerId": "A17O8YI4ESNTRT",
-    "condition": 3,
-    "size": 2,
-    "payoff": 75
-  },
-  {
-    "workerId": "A2OBIS4QF3VXZT",
-    "condition": 1,
-    "size": 2,
-    "payoff": 44
-  },
-  {
-    "workerId": "A1PKCBFB4QY19G",
-    "condition": 2,
-    "size": 6,
-    "payoff": 40
-  },
-  {
-    "workerId": "A1TARNH07A75CG",
-    "condition": 3,
-    "size": 2,
-    "payoff": 85
   }
 ]
