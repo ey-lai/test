@@ -1,32 +1,10 @@
 [
   {
     "workerId": "A1CGW3DQ5JRSJH",
-    "condition": 1,
-    "size": 2,
-    "payoff": 90
+    "condition": 1
   },
   {
     "workerId": "A2Q39WMBAU71OE",
-    "condition": 2,
-    "size": 6,
-    "payoff": 10
-  },
-  {
-    "workerId": "A1ZQ4Q7DXAE35B",
-    "condition": 3,
-    "size": 2,
-    "payoff": 74
-  },
-  {
-    "workerId": "A171S8E9IFSHH2",
-    "condition": 1,
-    "size": 2,
-    "payoff": 49
-  },
-  {
-    "workerId": "A39ROW50DWRRKT",
-    "condition": 2,
-    "size": 6,
-    "payoff": 100
+    "condition": 2
   }
 ]
