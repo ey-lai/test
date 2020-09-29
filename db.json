@@ -1,1 +1,72 @@
-
+[
+  {
+    "workerId": "A1CGW3DQ5JRSJH",
+    "condition": 1,
+    "size": 2,
+    "choice": 11,
+    "payoff": 90
+  },
+  {
+    "workerId": "A2Q39WMBAU71OE",
+    "condition": 2,
+    "size": 6,
+    "choice": 21,
+    "payoff": 10
+  },
+  {
+    "workerId": "A1ZQ4Q7DXAE35B",
+    "condition": 3,
+    "size": 2,
+    "choice": 31,
+    "payoff": 74
+  },
+  {
+    "workerId": "A171S8E9IFSHH2",
+    "condition": 1,
+    "size": 2,
+    "choice": 12,
+    "payoff": 49
+  },
+  {
+    "workerId": "A39ROW50DWRRKT",
+    "condition": 2,
+    "size": 6,
+    "choice": 21,
+    "payoff": 100
+  },
+  {
+    "workerId": "A17O8YI4ESNTRT",
+    "condition": 3,
+    "size": 2,
+    "choice": 33,
+    "payoff": 75
+  },
+  {
+    "workerId": "A2OBIS4QF3VXZT",
+    "condition": 1,
+    "size": 2,
+    "choice": 12,
+    "payoff": 44
+  },
+  {
+    "workerId": "A1PKCBFB4QY19G",
+    "condition": 2,
+    "size": 6,
+    "choice": 22,
+    "payoff": 40
+  },
+  {
+    "workerId": "A1TARNH07A75CG",
+    "condition": 3,
+    "size": 2,
+    "choice": 36,
+    "payoff": 85
+  },
+  {
+    "workerId": "",
+    "condition": "",
+    "size": "",
+    "choice": "",
+    "payoff": ""
+  }
+]
